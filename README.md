@@ -5,7 +5,7 @@
   - worked as a fullstack developer in ancient times
   - lives in Ankara **TR**
 
-repos here are just for follow up or fun, to take a look at commercial repos that i developed, drop a [message](mailto:bugrahandemir@gmail.com)!
+repos here are just for follow up or fun, to take a look at <u>private repos</u> that i developed, drop a [message](mailto:bugrahandemir@gmail.com)!
 
 <!--
 **bugdem/bugdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

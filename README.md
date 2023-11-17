@@ -1,9 +1,8 @@
 ## hello.
 
   - working at [Clocknest Games](https://github.com/clocknest-games) where we develop lots of fun games
-  - loves to develop and play games, especially card and city-building games
-  - worked as a fullstack developer in ancient times
-  - lives in Ankara **TR**
+  - loves to play and develop games in various genres
+  - worked as fullstack developer prior to game development
 
 repos here are just for follow up or fun, to take a look at <ins>private repos</ins> that i developed, drop a [message](mailto:bugrahandemir@gmail.com)!
 

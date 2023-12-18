@@ -4,7 +4,7 @@
   - loves to play and develop games in various genres
   - worked as fullstack developer prior to game development
 
-repos here are just for follow up or fun, to take a look at ```html <h1 style="color:blue;"><ins>private repos</ins></h1>``` that i developed, drop a [message](mailto:bugrahandemir@gmail.com)!
+repos here are just for follow up or fun, to take a look at $${\color{blue}<ins>private repos</ins>}$$ that i developed, drop a [message](mailto:bugrahandemir@gmail.com)!
 
 <!--
 **bugdem/bugdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
